@@ -4,7 +4,7 @@ email:       nickmcd@gmail.com
 author:      Nick McDonnough
 description: "A place to put my thoughts."
 baseurl:     ""
-url:         "http://nickmcd.com"
+url:         "http://nickmcd.io"
 
 # Google analytics
 google_analytics:
